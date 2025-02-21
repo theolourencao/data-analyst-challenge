@@ -15,10 +15,9 @@ Atualmente temos a necessidade de identificar as principais fontes de receita da
 * Conseguimos identificar alguma região que esteja com tendência e potencial de crescimento e de queda?
 * Qual gênero tem a melhor conversão de streams x receita?
   
-Gostaríamos de montar um dashboard executivo com os principais indicadores como sugestão de acompanhamento periódico para diferentes níveis: 
-* Diretores Executivos para visão global
-* Chefes Regionais com sugestão de metas a serem atingidas
-
+Gostaríamos de montar um dashboard executivo com os principais indicadores como sugestão de acompanhamento periódico com as características: 
+* Visão global para Diretores Executivos
+* Visão para Chefes Regionais com sugestão de metas a serem atingidas
 * Métricas: receita, streams (com base em vendas)
 * Parâmetros: lojas (Amazon, YouTube, Spotify, Facebook)
 * Filtros: Country / Genre
