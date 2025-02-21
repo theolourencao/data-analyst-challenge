@@ -3,8 +3,11 @@
 Bem vindo ao mundo da música!
 
 A ONErpm está liderando o futuro do negócio da música, redefinindo o que significa ser uma gravadora e distribuidora para a era moderna.
+
 A missão da ONErpm é capacitar artistas e criadores com soluções robustas de negócios e marketing de música, sustentadas pela tecnologia, enfatizando a transparência em tudo o que fazemos. 
+
 Quando você se junta à ONErpm, você se torna parte de uma comunidade global de profissionais de música e vídeo. Nós aproveitamos essa rede para criar uma maior visibilidade e oportunidade para nossos membros.
+
 A transparência é a chave para tudo o que fazemos, desde a criação e execução de uma campanha de marketing até a interpretação de streaming e análises financeiras.
 
 ## Problema
