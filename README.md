@@ -49,6 +49,10 @@ Gostaríamos de montar um dashboard executivo com os principais indicadores como
 * Faça um fork deste repositório e abra um PR quando estiver finalizado com instruções para acessarmos o resultado.
 * Utilize a ferramenta Power BI da Microsoft.
 
+## Diferencial
+
+* Utilize o DBT.
+
 ## Perfil que buscamos
 
 * Comunicativo
