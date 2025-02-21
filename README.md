@@ -51,7 +51,7 @@ Gostaríamos de montar um dashboard executivo com os principais indicadores como
 
 ## Diferencial
 
-* Utilize o DBT.
+* Utilize o DBT - Data Build Tool.
 
 ## Perfil que buscamos
 
