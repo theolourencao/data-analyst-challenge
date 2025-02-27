@@ -4,11 +4,16 @@
 
 SELECT
     DATE_TRUNC('month', date) AS day,
+    product,
     macro_store,
     store,
     first_payment_date,
     country_code,
+    country_name,
+    region,
+    subregion,
     genre_id,
+    genre_name,
     product_aging,
     is_stream,
     case 
@@ -18,7 +23,9 @@ SELECT
         else '3 - old' end as product_age_group,
     SUM(quantity) AS total_streams,
     SUM(revenue) AS total_revenue,
-    SUM(is_download) AS total_downloads
+    SUM(is_download) AS total_downloads,
+    COUNT(DISTINCT product) AS total_products
+
 FROM 
     {{ ref('cleaned_streaming_data') }}
 GROUP BY 
