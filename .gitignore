@@ -1,3 +1,4 @@
 # Ignorar arquivos e subpastas em Parquets, mas manter a pasta
 .env
 Data/Parquets/*
+App\dbt\my_database.db
