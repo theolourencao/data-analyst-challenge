@@ -1,7 +1,3 @@
-{{ config(
-    materialized='table'
-) }}
-
 WITH cleansing_data AS (
     SELECT
         CAST(store AS STRING) AS store,
