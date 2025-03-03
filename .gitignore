@@ -1,0 +1,3 @@
+# Ignorar arquivos e subpastas em Parquets, mas manter a pasta
+.env
+Data/Parquets/*
