@@ -1,6 +1,4 @@
-{{ config(
-    materialized='table'
-) }}
+
 
 WITH month_total AS (
     SELECT 

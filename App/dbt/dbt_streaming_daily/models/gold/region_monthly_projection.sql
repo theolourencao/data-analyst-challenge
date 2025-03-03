@@ -1,6 +1,4 @@
-{{ config(
-    materialized='table'
-) }}
+
 
 WITH avg_growth AS (
     SELECT 

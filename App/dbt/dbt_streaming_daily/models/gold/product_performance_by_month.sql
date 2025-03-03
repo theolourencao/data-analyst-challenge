@@ -1,6 +1,4 @@
-    {{ config(
-        materialized='table'
-    ) }}
+
 
     SELECT
         DATE_TRUNC('month', date) AS day,
